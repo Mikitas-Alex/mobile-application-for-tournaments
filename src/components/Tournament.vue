@@ -52,7 +52,7 @@
   z-index: 1;
   border-bottom: 1px solid #6f86ff;
   padding: 20px 30px;
-
+  justify-content: space-between;
 }
 
 .mini-tcontainer {

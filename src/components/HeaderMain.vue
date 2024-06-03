@@ -53,7 +53,7 @@ li:hover {
 button {
   position: absolute;
     right: 10px;
-    top: 10px;
+    top: 30px;
     padding: 0;
     border: unset;
     background-color: transparent;
