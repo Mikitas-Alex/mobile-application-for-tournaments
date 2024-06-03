@@ -228,7 +228,7 @@ font-size: 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #fff;
+  background: linear-gradient(315deg, #131737 0%, #0e1448 100%);
   border-radius: 10px;
   z-index: 999;
   min-width: 100vw;
