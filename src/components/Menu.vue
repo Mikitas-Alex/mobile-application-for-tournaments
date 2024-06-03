@@ -233,6 +233,9 @@ font-size: 10px;
   z-index: 999;
   min-width: 100vw;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  overflow-y: auto;
+  height: 100vh;
+  padding-bottom: 200px;
 }
 
 h4 {
