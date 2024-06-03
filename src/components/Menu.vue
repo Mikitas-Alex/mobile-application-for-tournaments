@@ -239,7 +239,7 @@ font-size: 10px;
 }
 
 h4 {
-  padding-top: 24px;
+  padding-top: 50px;
   padding-bottom: 22px;
   font-weight: 600;
 font-size: 32px;
