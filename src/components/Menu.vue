@@ -146,7 +146,7 @@ nav ul {
   padding: 0;
   display: flex;
   justify-content: space-between;
-  gap: 58px;
+  gap: 50px;
 }
 
 
@@ -248,6 +248,8 @@ font-size: 32px;
 .modal-list {
   display: flex;
   flex-direction: column;
+  width: 100%;
+  padding: 0 25px;
 }
 
 .modal-item {
@@ -268,7 +270,7 @@ font-size: 16px;
 border-radius: 14px;
 padding: 9px 12px;
 background: #3a3a3e;
-width: 170px;
+width: 150px;
 }
 
 .select-container {
@@ -284,7 +286,8 @@ width: 170px;
   cursor: pointer;
 border-radius: 14px 14px 0 0 ;
 background: #3a3a3e;
-width: 170px;
+width: 150px;
+
 height: 40px;
 font-weight: 600;
 font-size: 16px;
@@ -299,7 +302,7 @@ color: #fff;
 }
 
 .selected-option {
-  width: 100%;
+  width: 150px;
   height: 100%;
   border-radius: 14px 14px 0 0 ;
   display: flex;
